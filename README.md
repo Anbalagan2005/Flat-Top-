@@ -83,5 +83,5 @@ plt.show()
 The flat top sampling of the analog signal was successfully performed and the sampled waveform with constant amplitude pulses was observed.
 
 # HARDWARE EXPERIMENT OUTPUT WAVEFORM:
-![WhatsApp Image 2025-05-06 at 10 45 00_55177997](https://github.com/user-attachments/assets/35a99f39-80af-4d3e-b3d1-5c3db1a576ca)
+![WhatsApp Image 2025-05-06 at 19 09 46_fd30082b](https://github.com/user-attachments/assets/65df4137-4eb4-4521-9cb0-42b6f729ffb6)
 
